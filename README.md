@@ -1,8 +1,19 @@
-# Mini-Project-Data-Science
+# Mini-Project-Data-Science Description
 Small data science project to publish on GitHub. The focus is reproducibility and demonstrating git skills, not complexity.
 
-# Introduction
+# Data
 This project was made for my Data Science 1 class. It is based on a dataset gotten from Kaggle named Clothes Price Prediction. This dataset wanted to predict the pricing of clothes according to their features.
+
+# Folder structure
+Mini-Project-Data-Science
+    bin 
+    config
+    data
+    docs
+    notebooks 
+        code.ipynb 
+    reports
+    src
 
 
 # Requirements from the professor
@@ -16,3 +27,10 @@ Documentation (3 pts): Provide a well-structured README.md using proper Markdown
 Analysis (3 pts): Perform a very basic analysis. Minimal cleaning if needed, then one descriptive statistic or a simple graph is enough. Code must be clean and easy to follow.
 
 Version Control (3 pts): Use Git properly with at least 3 meaningful commit messages (additional to the init).
+
+# Steps to reproduce 
+
+```python
+git clone https://github.com/lucianafrs11/Mini-Project-Data-Science.git
+```
+you can execute the cells in code.ipynb
